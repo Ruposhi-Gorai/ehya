@@ -1,7 +1,7 @@
 import React from "react";
-import image from "../assets/images/vector.png";
-import image2 from "../assets/images/Group 19.png";
-import image3 from "../assets/images/List.png";
+import vector from "../assets/images/vector.png";
+import image2 from "../assets/images/group19.png";
+import image3 from "../assets/images/list.png";
 
 export default function Page1() {
   return (
@@ -13,8 +13,8 @@ export default function Page1() {
             <span>
               <img
                 className="absolute bottom-[-22px] rotate-x-12 left-0"
-                src={image}
-                alt=""
+                src={vector}
+                alt="vector"
               />
             </span>
           </h1>
