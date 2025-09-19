@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.homepage{
+  background: linear-gradient(216.04deg, #27C0EF 13.84%, #00A8DB 83.53%);
+;
+}
+.login-btn{
+    background: linear-gradient(278.21deg, #005490 1.66%, #328BCB 96.78%);
+
+}
