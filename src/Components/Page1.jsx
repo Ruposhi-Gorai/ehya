@@ -1,7 +1,7 @@
 import React from "react";
-import vector from "../assets/images/vector.png";
+import vector from "../assets/images/Vector.png";
 import image2 from "../assets/images/group19.png";
-import image3 from "../assets/images/list.png";
+import image3 from "../assets/images/List.png";
 
 export default function Page1() {
   return (
